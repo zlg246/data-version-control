@@ -1,4 +1,6 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = C:\Users\lgzha\Desktop\shared_cache
 ['remote "remote_storage"']
     url = C:\Users\lgzha\Desktop\dvc_remote
